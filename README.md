@@ -6,15 +6,17 @@ Awesome Logseq extensions and resources created by the community &lt;3
 
 ## Table of Contents
 
-- [🎨 CSS Themes](#-css-themes)
-- [🔌 Plugins](#-plugins)
-- [🤝 Third Party Integrations](#-third-party-integrations)
-- [📚 Guides and How-tos](#-guides-and-how-tos)
-- [💡 Workflows and Innovations](#-workflows-and-innovations)
-- [🔍 Other Resources](#-other-resources)
-- [🌱 Community Knowledge Gardens](#-community-knowledge-gardens)
-  - [🇺🇲 En](#-en)
-  - [🇨🇳 Zh-CN](#-zh-cn)
+- [awesome-logseq](#awesome-logseq)
+  - [Table of Contents](#table-of-contents)
+  - [🎨 CSS Themes](#-css-themes)
+  - [🔌 Plugins](#-plugins)
+  - [🤝 Third Party Integrations](#-third-party-integrations)
+  - [📚 Guides and How-tos](#-guides-and-how-tos)
+  - [💡 Workflows and Innovations](#-workflows-and-innovations)
+  - [🔍 Other Resources](#-other-resources)
+  - [🌱 Community Knowledge Gardens](#-community-knowledge-gardens)
+    - [🇺🇲 En](#-en)
+    - [🇨🇳 Zh-CN](#-zh-cn)
 
 ## 🎨 CSS Themes
 
@@ -72,7 +74,7 @@ See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Themes`
 - [logseq13-full-house](https://github.com/stdword/logseq13-full-house-plugin) by stdword — Logseq Templates you will really love ❤️
 - [logseq-plugin-bullet-threading](https://github.com/pengx17/logseq-plugin-bullet-threading) by pengx17 - Add bullet threading to your active blocks in Logseq
 - [logseq-jira](https://github.com/adyscorpius/logseq-jira) by adyscorpius - Update Jira ticket details in your active blocks in Logseq.
-  
+- [logseq-gallery](https://github.com/CorrectRoadH/logseq-gallery) by CorrectRoad - provides a gallery view for query.
 See <https://xyhp915.github.io/logseq-marketplace-table/> and filter to `Plugins` for a full list
 
 ## 🤝 Third Party Integrations
